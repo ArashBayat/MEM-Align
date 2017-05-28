@@ -14,7 +14,7 @@ University of New South Wales - School of Computer Science and Engineering
 
 website: https://sites.google.com/site/memalignv1/
 
-Code Ocean: https://xxxxx ***(One-click simple run is available)***
+Code Ocean: https://sites.google.com/site/memalignv1/ ***(One-click simple run is available)***
 
 
 *** In order to use CodeOcean please run the algorithm using the provided interface in Interface tab.
