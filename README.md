@@ -14,7 +14,7 @@ University of New South Wales - School of Computer Science and Engineering
 
 website: https://sites.google.com/site/memalignv1/
 
-Code Ocean: https://sites.google.com/site/memalignv1/ ***(One-click simple run is available)***
+Code Ocean: https://codeocean.com/2017/05/26/mem-align-colon-a-fast-near-optimal-nucleotide-sequence-alignment-algorithm/ ***(One-click simple run is available)***
 
 
 *** In order to use CodeOcean please run the algorithm using the provided interface in Interface tab.
