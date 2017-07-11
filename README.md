@@ -1,16 +1,22 @@
+Video Description on https://youtu.be/_SnPC793QMM
+
 Description
 
 MEM-Align is a fast, near optimal nucleotide sequence alignment algorithm using Maximal Exact Matches (MEMs)
 
 Developed by: Arash Bayat (a.bayat@unsw.edu.au)
 
-To be submitted to Bioinformatics.
+MEM-Align is under publication
 
 Title: "Fast and accurate nucleotide sequence alignment algorithm suitable for DNA read mapping"
 
 Authors: Arash Bayat, Bruno Gaeta, Aleksandar Ignjatovic and Sri Parameswaran.
 
 University of New South Wales - School of Computer Science and Engineering
+
+A technical report on MEM-Align is available on: ftp://ftp.cse.unsw.edu.au/pub/doc/papers/UNSW/201701.pdf
+
+However, we recomend you to wait for the final publication which include latest changes.
 
 website: https://sites.google.com/site/memalignv1/
 
