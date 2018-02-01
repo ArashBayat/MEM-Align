@@ -8,8 +8,6 @@ Developed by: Arash Bayat (a.bayat@unsw.edu.au)
 
 MEM-Align is under publication
 
-Title: "Fast and accurate nucleotide sequence alignment algorithm suitable for DNA read mapping"
-
 Authors: Arash Bayat, Bruno Gaeta, Aleksandar Ignjatovic and Sri Parameswaran.
 
 University of New South Wales - School of Computer Science and Engineering
